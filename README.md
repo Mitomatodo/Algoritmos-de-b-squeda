@@ -2,6 +2,8 @@
 
 Este repositorio contiene un *Jupyter Notebook* con la implementación en Python de algoritmos fundamentales de ordenamiento, búsqueda y estructuras de datos. El código incluye trazas de ejecución para visualizar el comportamiento paso a paso de cada algoritmo.
 
+## **Autor: Jose Luis Garay Ramos**
+
 ## 📋 Contenido
 
 El archivo `Tarea - Algorítmia.ipynb` aborda los siguientes temas:
